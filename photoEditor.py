@@ -17,3 +17,4 @@ for filename in os.listdir(path):
     edit.save(f'.{pathOut}/{output_name}_edited.jpg')
 
      
+     
